@@ -12,15 +12,16 @@ public class HitArea : MonoBehaviour
     public int damage;
     public float health = 100f;
     public GameObject GameOverUI;
-    public TextMeshProUGUI healtDownText;
+    public TextMeshProUGUI healthDownText;
     //public TextMeshProUGUI Hit;
 
     bool Cross50 = false;
     bool Cross25 = false;
+
     void Start()
     {
         transform.position = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height));
-        healtDownText.text = "";
+        healthDownText.text = "";
         //Hit.text = "";
     }
 
@@ -38,7 +39,7 @@ public class HitArea : MonoBehaviour
 
             if(health <= 50 & !Cross50)
             {
-                healtDownText.text = "Main armor integrity down to 50%";
+                healthDownText.text = "Main armor integrity down to 50%";
                 Cross50 = true;
                 Invoke("HandleUI", 2);
             }
@@ -46,7 +47,7 @@ public class HitArea : MonoBehaviour
             {
                
                 Cross25 = true;
-                healtDownText.text = "Main armor integrity down to 25%";
+                healthDownText.text = "Main armor integrity down to 25%";
                 Invoke("HandleUI", 2);
                 return;
             }
@@ -60,7 +61,7 @@ public class HitArea : MonoBehaviour
 
     private void HandleUI()
     {
-        healtDownText.text = "";
+        healthDownText.text = "";
     }
     void HandleHit()
     {
