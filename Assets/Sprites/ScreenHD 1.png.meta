@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: 05d46a6922e92ea458c154a75c49022c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5102345788416957553
+    second: ScreenHD 1_0
+  - first:
+      213: -2064378060257666930
+    second: ScreenHD 1_1
+  - first:
+      213: -4977201532818957456
+    second: ScreenHD 1_2
+  - first:
+      213: -5729525118029620099
+    second: ScreenHD 1_3
+  - first:
+      213: -3672603757084275369
+    second: ScreenHD 1_4
+  - first:
+      213: 2946296400725741665
+    second: ScreenHD 1_5
+  - first:
+      213: -4163888234727160657
+    second: ScreenHD 1_6
+  - first:
+      213: -5942495458905685236
+    second: ScreenHD 1_7
+  - first:
+      213: 7169539089894830871
+    second: ScreenHD 1_8
+  - first:
+      213: -9192794423557007049
+    second: ScreenHD 1_9
+  - first:
+      213: 8077868671457478170
+    second: ScreenHD 1_10
+  - first:
+      213: -7792931077005967770
+    second: ScreenHD 1_11
+  - first:
+      213: 6741538747800919464
+    second: ScreenHD 1_12
+  - first:
+      213: 8298506920723965827
+    second: ScreenHD 1_13
+  - first:
+      213: -3749639248994088370
+    second: ScreenHD 1_14
+  - first:
+      213: 6463329666342654704
+    second: ScreenHD 1_15
+  - first:
+      213: -6781754171843572314
+    second: ScreenHD 1_16
+  - first:
+      213: 1804033235081878332
+    second: ScreenHD 1_17
+  - first:
+      213: 1925945099622651614
+    second: ScreenHD 1_18
+  - first:
+      213: 6347530266827491520
+    second: ScreenHD 1_19
+  - first:
+      213: -4123880699997256633
+    second: ScreenHD 1_20
+  - first:
+      213: -2338547812934358319
+    second: ScreenHD 1_21
+  - first:
+      213: 2240819052500473855
+    second: ScreenHD 1_22
+  - first:
+      213: -4974124292784477650
+    second: ScreenHD 1_23
+  - first:
+      213: 565642340272827449
+    second: ScreenHD 1_24
+  - first:
+      213: -7500763547186904919
+    second: ScreenHD 1_25
+  - first:
+      213: -3666972299496261338
+    second: ScreenHD 1_26
+  - first:
+      213: 5338982948092042567
+    second: ScreenHD 1_27
+  - first:
+      213: 5521352755702728998
+    second: ScreenHD 1_28
+  - first:
+      213: 4364163258888648360
+    second: ScreenHD 1_29
+  - first:
+      213: -4768132683688604352
+    second: ScreenHD 1_30
+  - first:
+      213: 6178172277032009963
+    second: ScreenHD 1_31
+  - first:
+      213: 2449538803442566546
+    second: ScreenHD 1_32
+  - first:
+      213: -660456595997719522
+    second: ScreenHD 1_33
+  - first:
+      213: 3707464885431458378
+    second: ScreenHD 1_34
+  - first:
+      213: -192990059473931990
+    second: ScreenHD 1_35
+  - first:
+      213: 5382706069171376649
+    second: ScreenHD 1_36
+  - first:
+      213: 2871490369960416284
+    second: ScreenHD 1_37
+  - first:
+      213: -3746191360048750702
+    second: ScreenHD 1_38
+  - first:
+      213: 859896440853759190
+    second: ScreenHD 1_39
+  - first:
+      213: 572262308234612395
+    second: ScreenHD 1_40
+  - first:
+      213: 4250308122677107615
+    second: ScreenHD 1_41
+  - first:
+      213: -1740312923126789976
+    second: ScreenHD 1_42
+  - first:
+      213: 9217899278342090967
+    second: ScreenHD 1_43
+  - first:
+      213: 8459751805585043604
+    second: ScreenHD 1_44
+  - first:
+      213: -8491471978872005060
+    second: ScreenHD 1_45
+  - first:
+      213: -6628563086335033750
+    second: ScreenHD 1_46
+  - first:
+      213: -6178600249465420741
+    second: ScreenHD 1_47
+  - first:
+      213: -8314016133601845866
+    second: ScreenHD 1_48
+  - first:
+      213: -4040886454082463884
+    second: ScreenHD 1_49
+  - first:
+      213: 2020011677646332939
+    second: ScreenHD 1_50
+  - first:
+      213: -7342183105185355912
+    second: ScreenHD 1_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScreenHD 1_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 4056
+        width: 6833
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad699610f0d36044a9ad48e46270e4ab
+      internalID: 5102345788416957553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_1
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 4050
+        width: 1162
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d668e861cf2240b96c7bb4f2c4c66
+      internalID: -2064378060257666930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_2
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 4011
+        width: 1580
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29f16f98de43dc4a8c886192a101994
+      internalID: -4977201532818957456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_3
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 3966
+        width: 1949
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b282fe75584db04ab62be247e2b7be5
+      internalID: -5729525118029620099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 373
+        height: 3360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5487e9ec59f074c8b30e73d49103e8
+      internalID: -3672603757084275369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3808
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af18ee91074944882d9ecf2dc808d5
+      internalID: 2946296400725741665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3808
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a2a4e608bdd444836e6c6afbc04c6
+      internalID: -4163888234727160657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 3808
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93d08bd89c4084a8e618970e9d8f6c
+      internalID: -5942495458905685236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3808
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6c0ce86275bd4981a153d33a8952d
+      internalID: 7169539089894830871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3808
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bde99f2d23fb48a9ef7a86e3360f1
+      internalID: -9192794423557007049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3808
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5473a9475ed3344b855e5c19afbbed6
+      internalID: 8077868671457478170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_11
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3808
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe3f740c015974680f96be68953b73
+      internalID: -7792931077005967770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_12
+      rect:
+        serializedVersion: 2
+        x: 6648
+        y: 3681
+        width: 375
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab085966a2bc554ba14f311725d9272
+      internalID: 6741538747800919464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_13
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 516
+        width: 373
+        height: 3360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4cb216ecf95b4c8f082143b04e5f9
+      internalID: 8298506920723965827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3647
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c47f80b9c8324e9c34049b60e8338
+      internalID: -3749639248994088370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3617
+        width: 52
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d69f7356dbd28a40b2d57490643351e
+      internalID: 6463329666342654704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3583
+        width: 52
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389995d340b1c448b874eb5fb113759
+      internalID: -6781754171843572314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3621
+        width: 51
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09287d267e7187e43ba849e037f7bfa7
+      internalID: 1804033235081878332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_18
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3647
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc62b642dfe1774495a11502edb0713
+      internalID: 1925945099622651614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3677
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a132f6f24045344860cb66cbdc474f
+      internalID: 6347530266827491520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_20
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3494
+        width: 5042
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ca7ba8619a8d48b5cf312eee3c852
+      internalID: -4123880699997256633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_21
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 3493
+        width: 2330
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b94771df604e47a9d4c7ee813e5da
+      internalID: -2338547812934358319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_22
+      rect:
+        serializedVersion: 2
+        x: 6643
+        y: 3339
+        width: 380
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa76ee01d498d048bd14a0f7c00ab0a
+      internalID: 2240819052500473855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1089
+        width: 258
+        height: 2269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f4bb4d9ee73940b74c01b9779b469
+      internalID: -4974124292784477650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 921
+        width: 275
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1455345a760246aa66a69b41a1637
+      internalID: 565642340272827449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_25
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1045
+        width: 2414
+        height: 2298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5a7eda65f6a348a8d5cee328367b7
+      internalID: -7500763547186904919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_26
+      rect:
+        serializedVersion: 2
+        x: 6341
+        y: 1573
+        width: 192
+        height: 1256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b1229ffa70b54c8c51415bc41fc44
+      internalID: -3666972299496261338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_27
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 921
+        width: 265
+        height: 2481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8b24cedde4d8408a492d01d07abd8
+      internalID: 5338982948092042567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_28
+      rect:
+        serializedVersion: 2
+        x: 7060
+        y: 1089
+        width: 255
+        height: 2269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69815b68eca67340ab2aadfa64bb49a
+      internalID: 5521352755702728998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_29
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 418
+        width: 109
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c618c291aac3c8458928e29b8fca2a9
+      internalID: 4364163258888648360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_30
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 418
+        width: 108
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6931a2e263a37e45b4b512b1cf68388
+      internalID: -4768132683688604352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 418
+        width: 109
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3577e98363c48c428e36b0b72aa9a05
+      internalID: 6178172277032009963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_32
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 583
+        width: 5042
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5508e5c14fbf4f8b401d1db38ea0f
+      internalID: 2449538803442566546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_33
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 651
+        width: 2330
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d405a8caba5b4b825c29e13714ed4
+      internalID: -660456595997719522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_34
+      rect:
+        serializedVersion: 2
+        x: 6746
+        y: 654
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773279eeb3abb1845a4e9d679516bd2b
+      internalID: 3707464885431458378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_35
+      rect:
+        serializedVersion: 2
+        x: 6813
+        y: 654
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4166e27602210048a817138a869817d
+      internalID: -192990059473931990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_36
+      rect:
+        serializedVersion: 2
+        x: 6881
+        y: 654
+        width: 52
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccae171112f0242966fe252549cc2d
+      internalID: 5382706069171376649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_37
+      rect:
+        serializedVersion: 2
+        x: 6948
+        y: 654
+        width: 52
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7aadc8a38cb3b49b5fbb3fb80df026
+      internalID: 2871490369960416284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_38
+      rect:
+        serializedVersion: 2
+        x: 7016
+        y: 654
+        width: 52
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6230b668e547b4a996fa6f34150c95
+      internalID: -3746191360048750702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_39
+      rect:
+        serializedVersion: 2
+        x: 7083
+        y: 654
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1218e66f43950b4c9d1414633d3217d
+      internalID: 859896440853759190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_40
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 419
+        width: 108
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdbf1496cd7aa940be4cd131e8d2c69
+      internalID: 572262308234612395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_41
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 419
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069796a980308e4bb5f6a2253e60ff9
+      internalID: 4250308122677107615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_42
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 392
+        width: 266
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5fd45ca7a79bf4bb4848177b0c3f37
+      internalID: -1740312923126789976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_43
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 392
+        width: 262
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fae9c4470338942a041cda05467453
+      internalID: 9217899278342090967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_44
+      rect:
+        serializedVersion: 2
+        x: 6341
+        y: 452
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297151d417dfef469d12eb8dfb74941
+      internalID: 8459751805585043604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_45
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 452
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8c7f99aafa3d47833b679b236efc3
+      internalID: -8491471978872005060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_46
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 452
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87923a50f1a96364dbf66a95bdd42c98
+      internalID: -6628563086335033750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_47
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 452
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce266d5c53f724ba4396782719f255
+      internalID: -6178600249465420741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_48
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 452
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ba411a515b464bb2b08351d2ebeac
+      internalID: -8314016133601845866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_49
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 452
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b790b0499fac204c997e2ee614b4a92
+      internalID: -4040886454082463884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_50
+      rect:
+        serializedVersion: 2
+        x: 7114
+        y: 452
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c4a0154f04c2478b379053556ecec
+      internalID: 2020011677646332939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScreenHD 1_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 6833
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29200a6b772cad844bf4eaa93f3743fa
+      internalID: -7342183105185355912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1a019e5952759f448abe530b747f159
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
