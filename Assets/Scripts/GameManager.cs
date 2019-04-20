@@ -78,7 +78,7 @@ public class GameManager : MonoBehaviour
             float currentHitTime = Time.timeSinceLevelLoad;
             if((currentHitTime - LastHitTime) < (GunLoadTime + 1f)){
                 comboCount++;
-                ComboText.text = comboCount.ToString();
+                ComboText.text = (comboCount-1).ToString();
                 ComboUI.SetActive(true);
             }
             else{
@@ -96,5 +96,9 @@ public class GameManager : MonoBehaviour
             GameManager.KillCount++;
             Destroy(explosion, 2);
             
+    }
+
+    public void HitBound(){
+        ComboUI.SetActive(false);
     }
 }

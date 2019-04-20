@@ -22,6 +22,12 @@ public class MissileControl : MonoBehaviour
         {
             Destroy(gameObject);
             print("BoundHit");
+            try{
+                GameManager.HitBound();
+            }
+            catch(NullReferenceException){
+               print("Object nahi");
+           }
         }
         
         else if(other.gameObject.tag == "Enemy")
