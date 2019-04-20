@@ -7,12 +7,13 @@ using System;
 public class MissileControl : MonoBehaviour
 {
     AudioManager AudioManager;
-
+    GameManager GameManager;
 
     void Start()
     {
         AudioManager = FindObjectOfType<AudioManager>();
         GameObject KC = GameObject.Find("KillCount");
+        GameManager = FindObjectOfType<GameManager>();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -23,16 +24,15 @@ public class MissileControl : MonoBehaviour
             print("BoundHit");
         }
         
-        if(other.gameObject.tag == "Enemy")
+        else if(other.gameObject.tag == "Enemy")
         {
-            GameObject explosion = Instantiate(Resources.Load("Explosion", typeof(GameObject))) as GameObject;
-            explosion.transform.position = other.transform.position;
-            print("EnemyHit");
-            AudioManager.PlaySound("Explosion");
-            Destroy(gameObject);
-            Destroy(other.gameObject);
-            GameManager.KillCount++;
-            Destroy(explosion, 2);
+            try{
+                GameManager.EnemyDestroy(this.gameObject, other.gameObject);
+            }
+            catch(NullReferenceException){
+               print("Object nahi");
+           }
         }
     }
+
 }
