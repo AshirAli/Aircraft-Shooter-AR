@@ -6,16 +6,13 @@ public class EnemyMovement : MonoBehaviour
 {
     public float movementSpeed = 3f;
     GameManager GameManager;
-
-    private void Awake()
-    {
-        transform.Rotate(0, -180, 0);
-    }
+    // Start is called before the first frame update
     void Start()
     {
         GameManager = FindObjectOfType<GameManager>();
     }
 
+    // Update is called once per frame
     void Update()
     {
         movementSpeed = GameManager.EnemySpeed;
@@ -28,5 +25,6 @@ public class EnemyMovement : MonoBehaviour
         Quaternion rotation = Quaternion.LookRotation(relativePos,
                                                       Vector3.up);
         transform.rotation = rotation;
+        //transform.Translate(Vector3.forward * movementSpeed * Time.deltaTime);
     }
 }
