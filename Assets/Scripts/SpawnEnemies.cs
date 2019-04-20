@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SpawnEnemies : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class SpawnEnemies : MonoBehaviour
     public float SpawnRate = 2f;
     public float SpawnRateIncrease = 1.2f;
     public float speed = 1f;
+    public Text debugText;
     #endregion
 
     private float step;
@@ -27,14 +29,19 @@ public class SpawnEnemies : MonoBehaviour
 
     void SpawnEnemyAircrafts()
     {
-        Vector3 pos =  new Vector3(Random.Range(-size.x/2, size.x / 2), Random.Range(-size.y / 2, size.y / 2), Camera.main.farClipPlane);
-        /*Vector3 pos = Camera.main.ScreenToWorldPoint(
+        Vector3 pos =  new Vector3(Random.Range(-size.x, size.x), Random.Range(-size.y, size.y), Camera.main.farClipPlane);
+        /* Vector3 camPos = Camera.main.ScreenToWorldPoint(
                             new Vector3(
                                 Random.Range(0, Screen.width), 
                                 Random.Range(0, Screen.height), 
                                 Camera.main.farClipPlane)
-                      );*/
-        //print(pos);
+                      );
+        Vector3 temp = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width,Screen.height,Camera.main.nearClipPlane));
+        Debug.Log(pos);
+        Debug.Log(camPos);
+        */
+        Debug.Log(pos);
+        debugText.text = ("Pos = " + pos);
         GameObject EnemyInstance = Instantiate(EnemyAirCraft,pos,Quaternion.identity);
         //EnemyInstance.transform.Rotate(0, -180, 0);
         //EnemyInstance.transform.LookAt(Camera.main.transform); //Make the enemy look at the camera.
